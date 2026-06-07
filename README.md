@@ -1,7 +1,6 @@
-# Fraud Detection System — Adey Innovations
+# Fraud Detection System  for Adey Innovations
 
-A machine learning system that detects fraudulent transactions
-across e-commerce and bank credit card data.
+A machine learning system designed to identify fraudulent transactions in e-commerce platforms and banking credit card records.
 
 ---
 
@@ -84,7 +83,7 @@ fraud-detection/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/fraud-detection.git
+git clone https://github.com/Furtunaa/Fraud-detection-bank-week-5-6.git
 cd fraud-detection
 
 # 2. Create virtual environment
